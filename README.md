@@ -1,4 +1,4 @@
-# Machine-Learning-with-python
+# Machine-Learning-with-python 1-(EDA and Viz)
 Here I'm going to try various important aspects of Data science and Machine Learning with python
 
 1. Exploratory Data Analysis
